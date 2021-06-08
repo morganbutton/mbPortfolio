@@ -31,17 +31,17 @@ pygmentscodefencesguesssyntax = true
   name = "Blog"
   weight = 20
   identifier = "blog"
-  url = "tags/posts/"
+  url = "https://morganbutton.github.io/mbPortfolio/tags/posts/"
 [[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "tags/"
+  url = "https://morganbutton.github.io/mbPortfolio/tags/video/tags/"
 [[menu.main]]
   name = "Video"
   weight = 40
   identifier = "video"
-  url = "tags/video"
+  url = "https://morganbutton.github.io/mbPortfolio/tags/video/"
 [[menu.main]]
   name = "3D"
   weight = 40
