@@ -2,7 +2,7 @@
 title: "TresD01"
 date: 2021-06-06T21:21:07-04:00
 draft: false
-tags: ['posts', '3D']
+tags: ['posts', 'blender']
 ---
 
 ## 3D model 

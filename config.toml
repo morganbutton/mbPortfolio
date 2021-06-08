@@ -30,7 +30,7 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "Blog"
   weight = 20
-  identifier = "blog"
+  identifier = "posts"
   url = "/posts/"
 [[menu.main]]
   name = "Tags"
@@ -45,8 +45,8 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "3D"
   weight = 40
-  identifier = "3D"
-  url = "/3D/"
+  identifier = "blender"
+  url = "/blender/"
 [[menu.main]]
   name = "Code"
   weight = 40

@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-tags: ['posts', '3D']
+tags: ['posts', 'blender']
 ---
 
 ## 3D model 
