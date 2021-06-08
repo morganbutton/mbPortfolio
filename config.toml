@@ -46,7 +46,7 @@ pygmentscodefencesguesssyntax = true
   name = "3D"
   weight = 40
   identifier = "3D"
-  url = "/models/"
+  url = "/3D/"
 [[menu.main]]
   name = "Code"
   weight = 40
