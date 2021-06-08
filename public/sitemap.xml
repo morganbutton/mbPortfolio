@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://morganbutton.github.io/mbPortfolio/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://morganbutton.github.io/mbPortfolio/posts/post01/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://morganbutton.github.io/mbPortfolio/posts/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/tags/posts/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/tags/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/video/vid01/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/tags/video/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/video/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/tags/3d/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/models/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/models/tresd01/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/mbPortfolio/categories/</loc>
   </url>
 </urlset>
