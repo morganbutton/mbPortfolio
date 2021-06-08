@@ -31,27 +31,27 @@ pygmentscodefencesguesssyntax = true
   name = "Blog"
   weight = 20
   identifier = "blog"
-  url = "https://morganbutton.github.io/mbPortfolio/tags/posts/"
+  url = "/posts/"
 [[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "https://morganbutton.github.io/mbPortfolio/tags/video/tags/"
+  url = "/tags/"
 [[menu.main]]
   name = "Video"
   weight = 40
   identifier = "video"
-  url = "https://morganbutton.github.io/mbPortfolio/tags/video/"
+  url = "/video/"
 [[menu.main]]
   name = "3D"
   weight = 40
   identifier = "3D"
-  url = "tags/3D"
+  url = "/models/"
 [[menu.main]]
   name = "Code"
   weight = 40
   identifier = "code"
-  url = "tags/code"
+  url = "/code/"
 
 [params]
   subTitle = "My Portfolio/Blog Site"                                       # site's subTitle              # 网站二级标题
